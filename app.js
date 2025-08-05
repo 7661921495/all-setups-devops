@@ -1,1 +1,1 @@
-This file is only for javascript code
+This file is only for javascript 
